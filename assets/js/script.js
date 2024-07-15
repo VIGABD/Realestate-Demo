@@ -49,3 +49,25 @@ window.addEventListener("scroll", function () {
   window.scrollY >= 400 ? header.classList.add("active")
     : header.classList.remove("active");
 }); 
+
+
+
+
+/**
+ * carousel
+ */
+document.addEventListener('DOMContentLoaded', function () {
+  const slides = document.querySelector('.slides');
+  const slideWidth = slides.clientWidth; /* Get width of each slide */
+  let currentSlide = 0;
+
+  function nextSlide() {
+    currentSlide = (currentSlide + 1) % slides.children.length;
+    slides.style.transform = `translateX(-${currentSlide * slideWidth}px)`;
+  }
+
+  setInterval(nextSlide, 3000); /* Change slide every 3 seconds (adjust interval as needed) */
+});
+
+
+

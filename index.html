@@ -5,18 +5,28 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Homeverse - Find your dream house</title>
+  <title>Paras Online Network</title>
 
   <!-- 
     - favicon
   -->
-  <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+  <!-- <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml"> -->
+  <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
+
+  <!--OWl carousel-->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+    integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
   <!-- 
     - custom css link
   -->
   <link rel="stylesheet" href="./assets/css/style.css">
-
+  <!--CDN-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    integrity="sha512-... (checksum)" crossorigin="anonymous" />
   <!-- 
     - google font link
   -->
@@ -25,6 +35,44 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap"
     rel="stylesheet">
+
+
+  <!-- bootstrap link -->
+
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS for Carousel -->
+  <style>
+    @keyframes colorChange {
+
+      0%,
+      100% {
+        color: #84C323;
+        /* Start and end color */
+      }
+
+      50% {
+        color: #737164;
+        /* Middle color */
+      }
+    }
+
+    .animated-heading {
+      font-size: 40px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      animation: colorChange 3s infinite;
+      /* Animation duration and repetition */
+
+
+      @media (max-width: 600px) {
+        input[type="text"]#search {
+          font-size: 14px;
+
+          /* Adjust font size for smaller screens */
+        }
+      }
+    }
+  </style>
+
 </head>
 
 <body>
@@ -46,7 +94,7 @@
             <a href="mailto:info@homeverse.com" class="header-top-link">
               <ion-icon name="mail-outline"></ion-icon>
 
-              <span>info@homeverse.com</span>
+              <span> parasonlinenetwork@gmail.com </span>
             </a>
           </li>
 
@@ -54,42 +102,50 @@
             <a href="#" class="header-top-link">
               <ion-icon name="location-outline"></ion-icon>
 
-              <address>15/A, Nest Tower, NYC</address>
+              <address> Sri Ganganagar, Rajasthan 335001</address>
             </a>
           </li>
 
         </ul>
 
         <div class="wrapper">
-          <ul class="header-top-social-list">
+          <ul class="header-top-social-list" style="margin-bottom: 27px;">
 
             <li>
-              <a href="#" class="header-top-social-link">
+              <a href="https://www.facebook.com/paras.nath.1232"
+                class="header-top-social-link">
                 <ion-icon name="logo-facebook"></ion-icon>
               </a>
-            </li>
+            </li> <br>
+
+
 
             <li>
-              <a href="#" class="header-top-social-link">
-                <ion-icon name="logo-twitter"></ion-icon>
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="header-top-social-link">
+              <a href="#"
+                class="header-top-social-link">
                 <ion-icon name="logo-instagram"></ion-icon>
               </a>
-            </li>
+            </li> <br>
+
+
+            <li>
+              <a href="#"
+                class="header-top-social-link">
+                <ion-icon name="logo-linkedin"></ion-icon>
+              </a>
+            </li> <br>
 
             <li>
               <a href="#" class="header-top-social-link">
-                <ion-icon name="logo-pinterest"></ion-icon>
+                <ion-icon name="logo-youtube"></ion-icon>
               </a>
             </li>
+
+
 
           </ul>
 
-          <button class="header-top-btn">Add Listing</button>
+          <!-- <button class="header-top-btn">Download</button> -->
         </div>
 
       </div>
@@ -99,7 +155,7 @@
       <div class="container">
 
         <a href="#" class="logo">
-          <img src="./assets/images/logo.png" alt="Homeverse logo">
+          <img src="./assets/images/logoimg.png" alt="nugen logo">
         </a>
 
         <nav class="navbar" data-navbar>
@@ -107,7 +163,7 @@
           <div class="navbar-top">
 
             <a href="#" class="logo">
-              <img src="./assets/images/logo.png" alt="Homeverse logo">
+              <img src="./assets/images/logoimg.png" alt="nugen logo">
             </a>
 
             <button class="nav-close-btn" data-nav-close-btn aria-label="Close Menu">
@@ -127,21 +183,38 @@
                 <a href="#about" class="navbar-link" data-nav-link>About</a>
               </li>
 
+              <!-- <div class="dropdown"> -->
               <li>
                 <a href="#service" class="navbar-link" data-nav-link>Service</a>
               </li>
+              <!-- <div class="dropdown-content">
+                  
+                  <li> <a href="#" class="navbar-link" data-nav-link>Network Solutions</a></li>
+                  <li> <a href="#" class="navbar-link" data-nav-link>Network Security</a></li>
+                  <li> <a href="#" class="navbar-link" data-nav-link>Cloud Solutions</a></li>
+                  <li> <a href="#" class="navbar-link" data-nav-link>Data Security</a></li>
+                  <li> <a href="#" class="navbar-link" data-nav-link>Voice Solustion </a></li>
+                  <li> <a href="#" class="navbar-link" data-nav-link>Application/Software</a></li>
+                </div>
+              </div> -->
+
+
+
+
 
               <li>
-                <a href="#property" class="navbar-link" data-nav-link>Property</a>
+                <a href="#property" class="navbar-link" data-nav-link>Features</a>
               </li>
 
               <li>
-                <a href="#blog" class="navbar-link" data-nav-link>Blog</a>
+                <a href="#plan" class="navbar-link" data-nav-link>Plan</a>
               </li>
 
+
               <li>
-                <a href="#contact" class="navbar-link" data-nav-link>Contact</a>
+                <a href="#form" class="navbar-link" data-nav-link>Contact</a>
               </li>
+
 
             </ul>
           </div>
@@ -150,7 +223,7 @@
 
         <div class="header-bottom-actions">
 
-          <button class="header-bottom-actions-btn" aria-label="Search">
+          <!-- <button class="header-bottom-actions-btn" aria-label="Search">
             <ion-icon name="search-outline"></ion-icon>
 
             <span>Search</span>
@@ -160,13 +233,13 @@
             <ion-icon name="person-outline"></ion-icon>
 
             <span>Profile</span>
-          </button>
+          </button>  -->
 
-          <button class="header-bottom-actions-btn" aria-label="Cart">
+          <!-- <button class="header-bottom-actions-btn" aria-label="Cart">
             <ion-icon name="cart-outline"></ion-icon>
 
             <span>Cart</span>
-          </button>
+          </button> -->
 
           <button class="header-bottom-actions-btn" data-nav-open-btn aria-label="Open Menu">
             <ion-icon name="menu-outline"></ion-icon>
@@ -198,23 +271,25 @@
           <div class="hero-content">
 
             <p class="hero-subtitle">
-              <ion-icon name="home"></ion-icon>
+              <ion-icon name="wifi"></ion-icon>
 
-              <span>Real Estate Agency</span>
+              <span>Welcome to Paras Online Network</span>
             </p>
 
-            <h2 class="h1 hero-title">Find Your Dream House By Us</h2>
+            <h2 class="h1 hero-title">PON Boardband Fast Internet.</h2>
 
             <p class="hero-text">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
-            </p>
+              "Enjoy lightning-speed internet with Parsa Online Network, keeping you connected and productive without
+              interruptions." </p>
+            <a href="#form" class="button-link">
+              <button class="btn">Contact Us</button></a>
 
-            <button class="btn">Make An Enquiry</button>
+
 
           </div>
 
           <figure class="hero-banner">
-            <img src="./assets/images/hero-banner.png" alt="Modern house model" class="w-100">
+            <img src="./assets/images/banner1.png" alt="Modern house model" class="w-100">
           </figure>
 
         </div>
@@ -232,65 +307,46 @@
         <div class="container">
 
           <figure class="about-banner">
-            <img src="./assets/images/about-banner-1.png" alt="House interior">
+            <img src="./assets/images/about2.jpg" alt="House interior">
 
-            <img src="./assets/images/about-banner-2.jpg" alt="House interior" class="abs-img">
+            <!-- <img src="./assets/images/about-banner-2.jpg" alt="House interior" class="abs-img"> -->
           </figure>
 
           <div class="about-content">
 
-            <p class="section-subtitle">About Us</p>
+            <p class="section-subtitle">Our About Us</p>
 
-            <h2 class="h2 section-title">The Leading Real Estate Rental Marketplace.</h2>
+            <h2 class="h2 section-title">About Unlimited Broadband. Internet Speed.</h2>
 
             <p class="about-text">
-              Over 39,000 people work for us in more than 70 countries all over the This breadth of global coverage,
-              combined with
-              specialist services
+              Enjoy unlimited access to the peacock streaming service from NBC Universal. Kick back with full seasons of
+              exclusive Originals, the eacock comedy live sports, and more. a month value.
             </p>
 
             <ul class="about-list">
 
               <li class="about-item">
                 <div class="about-item-icon">
-                  <ion-icon name="home-outline"></ion-icon>
+                  <ion-icon name="wifi-outline"></ion-icon>
                 </div>
 
-                <p class="about-item-text">Smart Home Design</p>
+                <p class="about-item-text">
+                  Pack plans $39/ month</p>
               </li>
 
-              <li class="about-item">
-                <div class="about-item-icon">
-                  <ion-icon name="leaf-outline"></ion-icon>
-                </div>
 
-                <p class="about-item-text">Beautiful Scene Around</p>
-              </li>
 
-              <li class="about-item">
-                <div class="about-item-icon">
-                  <ion-icon name="wine-outline"></ion-icon>
-                </div>
 
-                <p class="about-item-text">Exceptional Lifestyle</p>
-              </li>
-
-              <li class="about-item">
-                <div class="about-item-icon">
-                  <ion-icon name="shield-checkmark-outline"></ion-icon>
-                </div>
-
-                <p class="about-item-text">Complete 24/7 Security</p>
-              </li>
 
             </ul>
 
             <p class="callout">
-              "Enimad minim veniam quis nostrud exercitation
-              llamco laboris. Lorem ipsum dolor sit amet"
+              We serve which allows us to get your services up and running 100mbps in a day.
+              check box
+              Consectetur adipiscing elit, sed do eiusmod tempor incid running 100mbps in a day.
             </p>
 
-            <a href="#service" class="btn">Our Services</a>
+            <!-- <a href="about.html" class="btn">Read More</a> -->
 
           </div>
 
@@ -306,11 +362,14 @@
       -->
 
       <section class="service" id="service">
-        <div class="container">
+        <div class="container" style="padding-bottom: 30pxs;">
 
-          <p class="section-subtitle">Our Services</p>
+          <p class="section-subtitle">What We Do?</p>
 
-          <h2 class="h2 section-title">Our Main Focus</h2>
+          <h2 class="h2 section-title">Our Services</h2>
+          <h3 class="mid-text">Explore the Sate net Unlimited Possibilities
+            odit.</h3> <br>
+
 
           <ul class="service-list">
 
@@ -318,20 +377,21 @@
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-1.png" alt="Service icon">
+                  <img src="./assets/images/bulk bandwidth.png" alt="Service icon">
                 </div>
 
                 <h3 class="h3 card-title">
-                  <a href="#">Buy a home</a>
+                  <a href="#">Bulk Bandwidth</a>
                 </h3>
 
                 <p class="card-text">
-                  over 1 million+ homes for sale available on the website, we can match you with a house you will want
-                  to call home.
+                  "High-capacity internet access for large data transfers, heavy usage, multiple devices, high-speed
+                  connectivity solutions, enterprise networks, data centers, cloud services, and scalable infrastructure
+                  to support growing business needs.""
                 </p>
 
-                <a href="#" class="card-link">
-                  <span>Find A Home</span>
+                <a href="bulkbandwidth.html" class="card-link">
+                  <span>Read More</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
@@ -343,20 +403,21 @@
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-2.png" alt="Service icon">
+                  <img src="./assets/images/p2p.png" alt="Service icon">
                 </div>
 
                 <h3 class="h3 card-title">
-                  <a href="#">Rent a home</a>
+                  <a href="#">P2P/NLD</a>
                 </h3>
 
                 <p class="card-text">
-                  over 1 million+ homes for sale available on the website, we can match you with a house you will want
-                  to call home.
+                  Point-to-Point: "Dedicated connection between two sites for secure, high-speed data transfer and
+                  reliable communication." NLD (National Long Distance): "High-capacity network connectivity across
+                  regions for fast data, voice, and video services."
                 </p>
 
-                <a href="#" class="card-link">
-                  <span>Find A Home</span>
+                <a href="p2p.html" class="card-link">
+                  <span>Read More</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
@@ -368,20 +429,21 @@
               <div class="service-card">
 
                 <div class="card-icon">
-                  <img src="./assets/images/service-3.png" alt="Service icon">
+                  <img src="./assets/images/Enterprise.png" alt="Service icon">
                 </div>
 
                 <h3 class="h3 card-title">
-                  <a href="#">Sell a home</a>
+                  <a href="#">Enterprise</a>
                 </h3>
 
                 <p class="card-text">
-                  over 1 million+ homes for sale available on the website, we can match you with a house you will want
-                  to call home.
+                  "Enterprise refers to a large organization or business, often with complex operations, multiple
+                  locations, and a large workforce, requiring robust infrastructure, advanced technology, and scalable
+                  solutions to drive growth and success."
                 </p>
 
-                <a href="#" class="card-link">
-                  <span>Find A Home</span>
+                <a href="enterprise.html" class="card-link">
+                  <span>Read More</span>
 
                   <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
@@ -393,7 +455,6 @@
 
         </div>
       </section>
-
 
 
 
@@ -404,10 +465,10 @@
 
       <section class="property" id="property">
         <div class="container">
+          <p class="section-subtitle">New Update</p>
 
-          <p class="section-subtitle">Properties</p>
 
-          <h2 class="h2 section-title">Featured Listings</h2>
+          <h2 class="h2 section-title" style="color: black;">Features</h2>
 
           <ul class="property-list has-scrollbar">
 
@@ -417,112 +478,69 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-1.jpg" alt="New Apartment Nice View" class="w-100">
+                    <img src="./assets/images/features1.jpg" alt="New Apartment Nice View" class="w-100">
                   </a>
-
-                  <div class="card-badge green">For Rent</div>
-
-                  <div class="banner-actions">
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="location"></ion-icon>
-
-                      <address>Belmont Gardens, Chicago</address>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="camera"></ion-icon>
-
-                      <span>4</span>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="film"></ion-icon>
-
-                      <span>2</span>
-                    </button>
-
-                  </div>
-
                 </figure>
 
                 <div class="card-content">
-
-                  <div class="card-price">
-                    <strong>$34,900</strong>/Month
-                  </div>
-
                   <h3 class="h3 card-title">
-                    <a href="#">New Apartment Nice View</a>
+                    <a href="#">OTT (Over-The-Top)</a>
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
-                  </p>
+                    OTT refers to the delivery of audio, video, and other media content over the internet, bypassing
+                    traditional cable, broadcast, and satellite television platforms.
+                  </p> <br>
 
-                  <ul class="card-list">
+                  <p class="card-text">
+                    OTT (Over-The-Top) is a streaming technology that allows users to access various media content
+                    directly over the internet.
+                  </p> <br>
 
-                    <li class="card-item">
-                      <strong>3</strong>
+                  <p class="card-text">
+                    OTT refers to the delivery of audio, video, and other media content over the internet, bypassing
+                    traditional cable, broadcast, and satellite television platforms.
+                  </p><br>
 
-                      <ion-icon name="bed-outline"></ion-icon>
 
-                      <span>Bedrooms</span>
-                    </li>
 
-                    <li class="card-item">
-                      <strong>2</strong>
-
-                      <ion-icon name="man-outline"></ion-icon>
-
-                      <span>Bathrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>3450</strong>
-
-                      <ion-icon name="square-outline"></ion-icon>
-
-                      <span>Square Ft</span>
-                    </li>
-
-                  </ul>
 
                 </div>
 
-                <div class="card-footer">
 
-                  <div class="card-author">
 
-                    <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
-                    </figure>
+              </div>
+            </li>
 
-                    <div>
-                      <p class="author-name">
-                        <a href="#">William Seklo</a>
-                      </p>
+            <li>
+              <div class="property-card">
 
-                      <p class="author-title">Estate Agents</p>
-                    </div>
+                <figure class="card-banner">
 
-                  </div>
+                  <a href="#">
+                    <img src="./assets/images/features2.jpg" alt="Modern Apartments" class="w-100">
+                  </a>
+                </figure>
+                <div class="card-content">
+                  <h3 class="h3 card-title">
+                    <a href="#">IPTV (Internet Protocol Television)</a>
+                  </h3>
 
-                  <div class="card-footer-actions">
+                  <p class="card-text">
+                    Contact content providers or distributors to license channels and programming. This can include
+                    sports, news, entertainment, movies, and specialty channels.
+                  </p> <br>
 
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="resize-outline"></ion-icon>
-                    </button>
+                  <p class="card-text">
+                    Build or partner with a platform that supports IPTV delivery, such as middleware for managing
+                    channels, content encryption, user authentication, and interactive features.
+                  </p> <br>
 
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="heart-outline"></ion-icon>
-                    </button>
+                  <p class="card-text">
+                    Develop a user-friendly interface for subscribers to browse channels, search for content, set
+                    preferences, and manage subscriptions.
+                  </p><br>
 
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="add-circle-outline"></ion-icon>
-                    </button>
-
-                  </div>
 
                 </div>
 
@@ -535,353 +553,44 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="./assets/images/property-2.jpg" alt="Modern Apartments" class="w-100">
+                    <img src="./assets/images/features3.jpg" alt="Comfortable Apartment" class="w-100">
                   </a>
-
-                  <div class="card-badge orange">For Sales</div>
-
-                  <div class="banner-actions">
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="location"></ion-icon>
-
-                      <address>Belmont Gardens, Chicago</address>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="camera"></ion-icon>
-
-                      <span>4</span>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="film"></ion-icon>
-
-                      <span>2</span>
-                    </button>
-
-                  </div>
-
                 </figure>
 
                 <div class="card-content">
 
-                  <div class="card-price">
-                    <strong>$34,900</strong>/Month
-                  </div>
+
 
                   <h3 class="h3 card-title">
-                    <a href="#">Modern Apartments</a>
+                    <a href="#">VoIP (Voice over Internet Protocol)</a>
                   </h3>
 
                   <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
-                  </p>
+                    Provide VoIP services such as voice calling, video calling, conference calling, and messaging over
+                    IP networks.
+                  </p> <br>
 
-                  <ul class="card-list">
+                  <p class="card-text">
+                    Offer a range of features such as caller ID, voicemail, call forwarding, call recording, and
+                    integration with other communication tools.
 
-                    <li class="card-item">
-                      <strong>3</strong>
 
-                      <ion-icon name="bed-outline"></ion-icon>
+                  </p> <br>
 
-                      <span>Bedrooms</span>
-                    </li>
+                  <p class="card-text">
+                    Maintain a robust infrastructure to support VoIP services, including servers, switches, and routers
+                    optimized for voice traffic.
+                  </p><br>
 
-                    <li class="card-item">
-                      <strong>2</strong>
-
-                      <ion-icon name="man-outline"></ion-icon>
-
-                      <span>Bathrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>3450</strong>
-
-                      <ion-icon name="square-outline"></ion-icon>
-
-                      <span>Square Ft</span>
-                    </li>
-
-                  </ul>
 
                 </div>
 
-                <div class="card-footer">
 
-                  <div class="card-author">
-
-                    <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
-                    </figure>
-
-                    <div>
-                      <p class="author-name">
-                        <a href="#">William Seklo</a>
-                      </p>
-
-                      <p class="author-title">Estate Agents</p>
-                    </div>
-
-                  </div>
-
-                  <div class="card-footer-actions">
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="resize-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="heart-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="add-circle-outline"></ion-icon>
-                    </button>
-
-                  </div>
-
-                </div>
 
               </div>
             </li>
 
-            <li>
-              <div class="property-card">
 
-                <figure class="card-banner">
-
-                  <a href="#">
-                    <img src="./assets/images/property-3.jpg" alt="Comfortable Apartment" class="w-100">
-                  </a>
-
-                  <div class="card-badge green">For Rent</div>
-
-                  <div class="banner-actions">
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="location"></ion-icon>
-
-                      <address>Belmont Gardens, Chicago</address>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="camera"></ion-icon>
-
-                      <span>4</span>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="film"></ion-icon>
-
-                      <span>2</span>
-                    </button>
-
-                  </div>
-
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-price">
-                    <strong>$34,900</strong>/Month
-                  </div>
-
-                  <h3 class="h3 card-title">
-                    <a href="#">Comfortable Apartment</a>
-                  </h3>
-
-                  <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
-                  </p>
-
-                  <ul class="card-list">
-
-                    <li class="card-item">
-                      <strong>3</strong>
-
-                      <ion-icon name="bed-outline"></ion-icon>
-
-                      <span>Bedrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>2</strong>
-
-                      <ion-icon name="man-outline"></ion-icon>
-
-                      <span>Bathrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>3450</strong>
-
-                      <ion-icon name="square-outline"></ion-icon>
-
-                      <span>Square Ft</span>
-                    </li>
-
-                  </ul>
-
-                </div>
-
-                <div class="card-footer">
-
-                  <div class="card-author">
-
-                    <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
-                    </figure>
-
-                    <div>
-                      <p class="author-name">
-                        <a href="#">William Seklo</a>
-                      </p>
-
-                      <p class="author-title">Estate Agents</p>
-                    </div>
-
-                  </div>
-
-                  <div class="card-footer-actions">
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="resize-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="heart-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="add-circle-outline"></ion-icon>
-                    </button>
-
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
-
-            <li>
-              <div class="property-card">
-
-                <figure class="card-banner">
-
-                  <a href="#">
-                    <img src="./assets/images/property-4.png" alt="Luxury villa in Rego Park" class="w-100">
-                  </a>
-
-                  <div class="card-badge green">For Rent</div>
-
-                  <div class="banner-actions">
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="location"></ion-icon>
-
-                      <address>Belmont Gardens, Chicago</address>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="camera"></ion-icon>
-
-                      <span>4</span>
-                    </button>
-
-                    <button class="banner-actions-btn">
-                      <ion-icon name="film"></ion-icon>
-
-                      <span>2</span>
-                    </button>
-
-                  </div>
-
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-price">
-                    <strong>$34,900</strong>/Month
-                  </div>
-
-                  <h3 class="h3 card-title">
-                    <a href="#">Luxury villa in Rego Park</a>
-                  </h3>
-
-                  <p class="card-text">
-                    Beautiful Huge 1 Family House In Heart Of Westbury. Newly Renovated With New Wood
-                  </p>
-
-                  <ul class="card-list">
-
-                    <li class="card-item">
-                      <strong>3</strong>
-
-                      <ion-icon name="bed-outline"></ion-icon>
-
-                      <span>Bedrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>2</strong>
-
-                      <ion-icon name="man-outline"></ion-icon>
-
-                      <span>Bathrooms</span>
-                    </li>
-
-                    <li class="card-item">
-                      <strong>3450</strong>
-
-                      <ion-icon name="square-outline"></ion-icon>
-
-                      <span>Square Ft</span>
-                    </li>
-
-                  </ul>
-
-                </div>
-
-                <div class="card-footer">
-
-                  <div class="card-author">
-
-                    <figure class="author-avatar">
-                      <img src="./assets/images/author.jpg" alt="William Seklo" class="w-100">
-                    </figure>
-
-                    <div>
-                      <p class="author-name">
-                        <a href="#">William Seklo</a>
-                      </p>
-
-                      <p class="author-title">Estate Agents</p>
-                    </div>
-
-                  </div>
-
-                  <div class="card-footer-actions">
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="resize-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="heart-outline"></ion-icon>
-                    </button>
-
-                    <button class="card-footer-actions-btn">
-                      <ion-icon name="add-circle-outline"></ion-icon>
-                    </button>
-
-                  </div>
-
-                </div>
-
-              </div>
-            </li>
 
           </ul>
 
@@ -893,159 +602,9 @@
 
 
       <!-- 
-        - #FEATURES
+        - #Feedback
+
       -->
-
-      <section class="features">
-        <div class="container">
-
-          <p class="section-subtitle">Our Aminities</p>
-
-          <h2 class="h2 section-title">Building Aminities</h2>
-
-          <ul class="features-list">
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="car-sport-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Parking Space</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="water-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Swimming Pool</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="shield-checkmark-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Private Security</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="fitness-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Medical Center</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="library-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Library Area</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="bed-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">King Size Beds</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="home-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Smart Homes</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="features-card">
-
-                <div class="card-icon">
-                  <ion-icon name="football-outline"></ion-icon>
-                </div>
-
-                <h3 class="card-title">Kid’s Playland</h3>
-
-                <div class="card-btn">
-                  <ion-icon name="arrow-forward-outline"></ion-icon>
-                </div>
-
-              </a>
-            </li>
-
-          </ul>
-
-        </div>
-      </section>
-
-
-
-
-
-      <!-- 
-        - #BLOG
-      -->
-
       <section class="blog" id="blog">
         <div class="container">
 
@@ -1053,16 +612,17 @@
 
           <h2 class="h2 section-title">Leatest News Feeds</h2>
 
-          <ul class="blog-list has-scrollbar">
+          <ul class="blog-list has-scrollbar owlCarousel">
 
-            <li>
+            <li class="item">
               <div class="blog-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/blog-1.png" alt="The Most Inspiring Interior Design Of 2021" class="w-100">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
                 </figure>
 
                 <div class="blog-content">
+
 
                   <div class="blog-content-top">
 
@@ -1072,49 +632,38 @@
                         <a href="#" class="card-meta-link">
                           <ion-icon name="person"></ion-icon>
 
-                          <span>by: Admin</span>
+                          <span>by: Ravi Singh</span>
                         </a>
                       </li>
 
-                      <li>
-                        <a href="#" class="card-meta-link">
-                          <ion-icon name="pricetags"></ion-icon>
-
-                          <span>Interior</span>
-                        </a>
-                      </li>
 
                     </ul>
 
-                    <h3 class="h3 blog-title">
-                      <a href="#">The Most Inspiring Interior Design Of 2021</a>
-                    </h3>
-
-                  </div>
-
-                  <div class="blog-content-bottom">
-                    <div class="publish-date">
-                      <ion-icon name="calendar"></ion-icon>
-
-                      <time datetime="2022-27-04">Apr 27, 2022</time>
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
                     </div>
 
-                    <a href="#" class="read-more-btn">Read More</a>
                   </div>
+
+
+
 
                 </div>
 
               </div>
             </li>
 
-            <li>
+
+            <li class="item">
               <div class="blog-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/blog-2.jpg" alt="Recent Commercial Real Estate Transactions" class="w-100">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
                 </figure>
 
                 <div class="blog-content">
+
 
                   <div class="blog-content-top">
 
@@ -1124,50 +673,39 @@
                         <a href="#" class="card-meta-link">
                           <ion-icon name="person"></ion-icon>
 
-                          <span>by: Admin</span>
+                          <span>by: Ravi Singh</span>
                         </a>
                       </li>
 
-                      <li>
-                        <a href="#" class="card-meta-link">
-                          <ion-icon name="pricetags"></ion-icon>
-
-                          <span>Estate</span>
-                        </a>
-                      </li>
 
                     </ul>
 
-                    <h3 class="h3 blog-title">
-                      <a href="#">Recent Commercial Real Estate Transactions</a>
-                    </h3>
-
-                  </div>
-
-                  <div class="blog-content-bottom">
-                    <div class="publish-date">
-                      <ion-icon name="calendar"></ion-icon>
-
-                      <time datetime="2022-27-04">Apr 27, 2022</time>
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
                     </div>
 
-                    <a href="#" class="read-more-btn">Read More</a>
                   </div>
+
+
+
 
                 </div>
 
               </div>
             </li>
 
-            <li>
+
+
+            <li class="item">
               <div class="blog-card">
 
                 <figure class="card-banner">
-                  <img src="./assets/images/blog-3.jpg" alt="Renovating a Living Room? Experts Share Their Secrets"
-                    class="w-100">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
                 </figure>
 
                 <div class="blog-content">
+
 
                   <div class="blog-content-top">
 
@@ -1177,35 +715,226 @@
                         <a href="#" class="card-meta-link">
                           <ion-icon name="person"></ion-icon>
 
-                          <span>by: Admin</span>
+                          <span>by: Ravi Singh</span>
                         </a>
                       </li>
 
-                      <li>
-                        <a href="#" class="card-meta-link">
-                          <ion-icon name="pricetags"></ion-icon>
-
-                          <span>Room</span>
-                        </a>
-                      </li>
 
                     </ul>
 
-                    <h3 class="h3 blog-title">
-                      <a href="#">Renovating a Living Room? Experts Share Their Secrets</a>
-                    </h3>
-
-                  </div>
-
-                  <div class="blog-content-bottom">
-                    <div class="publish-date">
-                      <ion-icon name="calendar"></ion-icon>
-
-                      <time datetime="2022-27-04">Apr 27, 2022</time>
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
                     </div>
 
-                    <a href="#" class="read-more-btn">Read More</a>
                   </div>
+
+
+
+
+                </div>
+
+              </div>
+            </li>
+
+
+            <li class="item">
+              <div class="blog-card">
+
+                <figure class="card-banner">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
+                </figure>
+
+                <div class="blog-content">
+
+
+                  <div class="blog-content-top">
+
+                    <ul class="card-meta-list">
+
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+
+                          <span>by: Ravi Singh</span>
+                        </a>
+                      </li>
+
+
+                    </ul>
+
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
+                    </div>
+
+                  </div>
+
+
+
+
+                </div>
+
+              </div>
+            </li>
+
+
+            <li class="item">
+              <div class="blog-card">
+
+                <figure class="card-banner">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
+                </figure>
+
+                <div class="blog-content">
+
+
+                  <div class="blog-content-top">
+
+                    <ul class="card-meta-list">
+
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+
+                          <span>by: Ravi Singh</span>
+                        </a>
+                      </li>
+
+
+                    </ul>
+
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
+                    </div>
+
+                  </div>
+
+
+
+
+                </div>
+
+              </div>
+            </li>
+
+
+            <li class="item">
+              <div class="blog-card">
+
+                <figure class="card-banner">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
+                </figure>
+
+                <div class="blog-content">
+
+
+                  <div class="blog-content-top">
+
+                    <ul class="card-meta-list">
+
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+
+                          <span>by: Ravi Singh</span>
+                        </a>
+                      </li>
+
+
+                    </ul>
+
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
+                    </div>
+
+                  </div>
+
+
+
+
+                </div>
+
+              </div>
+            </li>
+
+
+            <li class="item">
+              <div class="blog-card">
+
+                <figure class="card-banner">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
+                </figure>
+
+                <div class="blog-content">
+
+
+                  <div class="blog-content-top">
+
+                    <ul class="card-meta-list">
+
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+
+                          <span>by: Ravi Singh</span>
+                        </a>
+                      </li>
+
+
+                    </ul>
+
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
+                    </div>
+
+                  </div>
+
+
+
+
+                </div>
+
+              </div>
+            </li>
+
+            <li class="item">
+              <div class="blog-card">
+
+                <figure class="card-banner">
+                  <img src="./assets/images/feedback.png" alt="The Most Inspiring Interior Design Of 2021">
+                </figure>
+
+                <div class="blog-content">
+
+
+                  <div class="blog-content-top">
+
+                    <ul class="card-meta-list">
+
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+
+                          <span>by: Ravi Singh</span>
+                        </a>
+                      </li>
+
+
+                    </ul>
+
+                    <div class="cont-box">
+                      <p>"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, maxime Lorem ipsum dolor sit,
+                        amet consectetur adipisicing elit. Eius, sint.</p>
+                    </div>
+
+                  </div>
+
+
+
 
                 </div>
 
@@ -1218,6 +947,172 @@
       </section>
 
 
+      <!-- plan -->
+
+      <section class="plan" id="plan">
+        <p class="section-subtitle">Plans Available</p>
+        <h1 class="section-title">Our Company Perfect Internet <br>
+          Service Plans</h1>
+        <div class="plan-container">
+          <div class="plan-box">
+            <figure class="box-image">
+              <img src="./assets/images/icon1.png" alt="Image 1">
+            </figure>
+            <div class="box-content">
+              <h1>499/ month</h1>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Internet with a 50 Mbps</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Another feature</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And another one</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And more</p>
+              </div>
+              <a href="#form">
+                <center><button class="plan-botton">Get Started</button></center>
+              </a>
+            </div>
+          </div>
+
+          <div class="plan-box">
+            <figure class="box-image">
+              <img src="./assets/images/icon2.png" alt="Image 2">
+            </figure>
+            <div class="box-content">
+              <h1>699/ month</h1>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Internet with a 70 Mbps</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Another feature</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And another one</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And more</p>
+              </div>
+              <a href="#form">
+                <center><button class="plan-botton">Get Started</button></center>
+              </a>
+            </div>
+          </div>
+
+          <div class="plan-box">
+            <figure class="box-image">
+              <img src="./assets/images/icon3.png" alt="Image 3">
+            </figure>
+            <div class="box-content">
+              <h1>999/ month</h1>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Internet with a 100 Mbps</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>Another feature</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And another one</p>
+              </div>
+              <div class="checkbox">
+                <i class="fas fa-check-circle"></i>
+                <p>And more</p>
+              </div>
+              <a href="#form">
+                <center><button class="plan-botton">Get Started</button></center>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+      <!-- form -->
+      <div class="container-form" id="form">
+        <div class="contact-info">
+          <br>
+          <h3>Have any query?</h3> <br>
+          <h1 class="animated-heading">Consult our professional if you have any dream project.</h1>
+
+
+          <div class="info-tiles">
+            <div class="info-tile" style="color: black;">
+              <h3 style="text-align: center;"> <i class="fas fa-envelope" style="color: #84C323;"></i> <br>Email Address
+              </h3>
+
+              <div class="main-items" id="main-items">
+                <p style="text-align: center; color: #737164;">
+                  parasonlinenetwork@gmail.com </p>
+
+
+              </div>
+
+            </div>
+            <div class="info-tile" style="color: black;">
+              <h3 style="text-align: center; "> <i class="fas fa-mobile-alt" style="color: #84C323 ;"></i> <br> Mobile
+                Number</h3>
+              <div class="main-items" id="main-items">
+                <p style="text-align: center; color: #737164;">+91-93140 80890 </p>
+              </div>
+            </div>
+            <div class="info-tile" style="color: black;">
+              <h3 style="text-align: center; "> <i class="fas fa-map-marker" style="color: #84C323;"></i>
+                <br> Addresh
+              </h3>
+              <div class="main-items" id="main-items">
+                <p style="text-align: center; color: #737164;"> SSB Rd, near Khatu Shyam Mandir, Sri Ganganagar,
+                  Rajasthan 335001</p>
+              </div>
+            </div>
+            <div class="info-tile" style="color: black;">
+              <h3 style="text-align: center;"> <i class="far fa-clock" style="color: #84C323;"></i>
+                <br> Follow Us
+              </h3>
+              <div class="main items" id="main-items">
+                <p style="text-align: center; color: #737164;">Mon - Sat: 10am - 6pm<br> Sun: Closed</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="contact-form">
+          <h1 style="color: #737164;">Contact Us </h1> <br>
+          <h3 style="color: #737164;">Got a question? Send us a message and we'll respond as soon as possible.</h3> <br>
+          <form action="submit_form.php" method="POST">
+
+            <input type="text" id="name" name="name" required placeholder="Name:">
+
+
+            <input type="email" id="email" name="email" required placeholder="Email:">
+
+
+            <input type="number" id="number" name="number" required placeholder="Mobile:">
+
+            <input type="text" id="text" name="text" required placeholder="City:">
+
+
+
+            <textarea id="address" name="address" rows="6" cols="2" required placeholder="Write a message:"></textarea>
+
+            <button type="submit">Submit</button>
+          </form>
+        </div>
+      </div>
 
 
 
@@ -1226,23 +1121,12 @@
       -->
 
       <section class="cta">
-        <div class="container">
+        <div class="container" id="map-container">
 
-          <div class="cta-card">
-            <div class="card-content">
-              <h2 class="h2 card-title">Looking for a dream home?</h2>
-
-              <p class="card-text">We can help you realize your dream of a new home</p>
-            </div>
-
-            <button class="btn cta-btn">
-              <span>Explore Properties</span>
-
-              <ion-icon name="arrow-forward-outline"></ion-icon>
-            </button>
-          </div>
-
-        </div>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3458.306396013805!2d73.89371867554877!3d29.91308017498994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjnCsDU0JzQ3LjEiTiA3M8KwNTMnNDYuNyJF!5e0!3m2!1sen!2sin!4v1720696818868!5m2!1sen!2sin"
+            width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
       </section>
 
     </article>
@@ -1261,84 +1145,122 @@
     <div class="footer-top">
       <div class="container">
 
-        <div class="footer-brand">
+        <div class="footer-brand ">
 
-          <a href="#" class="logo">
-            <img src="./assets/images/logo-light.png" alt="Homeverse logo">
-          </a>
+
 
           <p class="section-text">
-            Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
+            <a href="#"><img src="assets/images/logoimg.png" alt=""></a>
           </p>
 
           <ul class="contact-list">
 
             <li>
+              <center>
+                <div>
+                  <ion-icon name="location-outline"></ion-icon>
+                </div>
+              </center>
               <a href="#" class="contact-link">
-                <ion-icon name="location-outline"></ion-icon>
-
-                <address>Brooklyn, New York, United States</address>
+                <address>
+                  H N 158, 3E CHHOTI GALI NO -05 NEAR KHATU SHYAM MANDIR SSB ROAD , Ganganagar,
+                  Rajasthan, India - 335001
+                </address>
               </a>
             </li>
-
-            <li>
-              <a href="tel:+0123456789" class="contact-link">
-                <ion-icon name="call-outline"></ion-icon>
-
-                <span>+0123-456789</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="mailto:contact@homeverse.com" class="contact-link">
-                <ion-icon name="mail-outline"></ion-icon>
-
-                <span>contact@homeverse.com</span>
-              </a>
-            </li>
-
-          </ul>
-
-          <ul class="social-list">
-
-            <li>
-              <a href="#" class="social-link">
-                <ion-icon name="logo-facebook"></ion-icon>
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="social-link">
-                <ion-icon name="logo-twitter"></ion-icon>
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="social-link">
-                <ion-icon name="logo-linkedin"></ion-icon>
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="social-link">
-                <ion-icon name="logo-youtube"></ion-icon>
-              </a>
-            </li>
-
           </ul>
 
         </div>
+
 
         <div class="footer-link-box">
 
           <ul class="footer-list">
 
             <li>
-              <p class="footer-list-title">Company</p>
+              <p class="footer-list-title">Contact Us</p>
+            </li>
+
+            <li>
+              <a href="tel:+91-7599556060" class="contact-link">
+                <ion-icon name="call-outline"></ion-icon>
+                <span>+91 93140 80890</span>
+              </a>
+
+              <a href="tel:+91-7599556060" class="contact-link">
+                <ion-icon name="call-outline"></ion-icon>
+
+                <span>+91 97834 68471</span>
+
+              </a>
+            </li><br>
+
+            <p class="footer-list-title">Follow Us</p>
+
+            <ul class="social-list" style="padding-left: 20px;">
+
+
+              <li>
+                <a href="https://www.facebook.com/paras.nath.1232" class="social-link">
+                  <ion-icon name="logo-facebook"></ion-icon>
+                </a>
+              </li>
+
+              <li>
+                <a href="#" class="social-link">
+                  <ion-icon name="logo-instagram"></ion-icon>
+                </a>
+              </li>
+
+              <li>
+                <a href="#" class="social-link">
+                  <ion-icon name="logo-linkedin"></ion-icon>
+                </a>
+              </li>
+
+              <li>
+                <a href="https://youtube.com/@techsaathigrow?si=C6brNICOq9sbwTkQ" class="social-link">
+                  <ion-icon name="logo-youtube"></ion-icon>
+                </a>
+              </li>
+
+            </ul>
+
+          </ul>
+
+          <ul class="footer-list">
+            <li>
+              <p class="footer-list-title">Service</p>
+            </li>
+
+            <li>
+              <a href="#" class="footer-link">Bulk Bandwidth</a>
+            </li>
+
+            <li>
+              <a href="#" class="footer-link">P2P/NLD</a>
+            </li>
+
+            <li>
+              <a href="#" class="footer-link">Enterprise</a>
+            </li>
+          </ul>
+
+          <ul class="footer-list">
+
+            <li>
+              <p class="footer-list-title">Ouicks Links</p>
+            </li>
+
+            <li>
+              <a href="#" class="footer-link">Home</a>
             </li>
 
             <li>
               <a href="#" class="footer-link">About</a>
+            </li>
+            <li>
+              <a href="#" class="footer-link"> Services</a>
             </li>
 
             <li>
@@ -1346,97 +1268,20 @@
             </li>
 
             <li>
-              <a href="#" class="footer-link">All Products</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Locations Map</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">FAQ</a>
-            </li>
-
-            <li>
               <a href="#" class="footer-link">Contact us</a>
             </li>
 
           </ul>
-
-          <ul class="footer-list">
-
-            <li>
-              <p class="footer-list-title">Services</p>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Order tracking</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Wish List</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Login</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">My account</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Terms & Conditions</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Promotional Offers</a>
-            </li>
-
-          </ul>
-
-          <ul class="footer-list">
-
-            <li>
-              <p class="footer-list-title">Customer Care</p>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Login</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">My account</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Wish List</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Order tracking</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">FAQ</a>
-            </li>
-
-            <li>
-              <a href="#" class="footer-link">Contact us</a>
-            </li>
-
-          </ul>
-
         </div>
 
       </div>
     </div>
-
+    <hr class="centered-hr">
     <div class="footer-bottom">
       <div class="container">
 
         <p class="copyright">
-          &copy; 2024 <a href="#">codewithmadhu</a>. All Rights Reserved
+          &copy; 2024 <a href="https://www.inextglobal.co.in/">Inext</a>. All Rights Reserved
         </p>
 
       </div>

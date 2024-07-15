@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paras Online Network</title>
+
+  <!-- 
+    - favicon
+  -->
+  <!-- <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml"> -->
+  <link rel="icon" href="/assets/images/favicon.png" type="image/x-icon">
+
+  <!--OWl carousel-->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+        integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+  <!-- 
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <!--CDN-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    integrity="sha512-... (checksum)" crossorigin="anonymous" />
+  <!-- 
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+
+
+  <!-- bootstrap link -->
+
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS for Carousel -->
+  <style>
+    @keyframes colorChange {
+
+      0%,
+      100% {
+        color: #462699;
+        /* Start and end color */
+      }
+
+      50% {
+        color: #9E83EA;
+        /* Middle color */
+      }
+    }
+
+    .animated-heading {
+      font-size: 40px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      animation: colorChange 3s infinite;
+      /* Animation duration and repetition */
+
+
+      @media (max-width: 600px) {
+        input[type="text"]#search {
+          font-size: 14px;
+
+          /* Adjust font size for smaller screens */
+        }
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- 
+    - #HEADER
+  -->
+
+  <header class="header" data-header>
+
+     <div class="overlay" data-overlay></div> 
+
+    <div class="header-top">
+      <div class="container">
+
+        <ul class="header-top-list">
+
+          <li>
+            <a href="mailto:info@homeverse.com" class="header-top-link">
+              <ion-icon name="mail-outline"></ion-icon>
+
+              <span>parasonlinenetwork@gmail.com</span>
+            </a>
+          </li>
+
+          <li>
+            <a href="#" class="header-top-link">
+              <ion-icon name="location-outline"></ion-icon>
+
+              <address>Sri Ganganagar, Rajasthan 335001</address>
+            </a>
+          </li>
+
+        </ul>
+
+        <div class="wrapper">
+          <ul class="header-top-social-list" style="margin-bottom: 27px;">
+
+            <li>
+              <a href="https://www.facebook.com/paras.nath.1232" class="header-top-social-link">
+                <ion-icon name="logo-facebook"></ion-icon>
+              </a>
+            </li> <br>
+
+
+
+            <li>
+              <a href="#" class="header-top-social-link">
+                <ion-icon name="logo-instagram"></ion-icon>
+              </a>
+            </li> <br>
+
+
+            <li>
+              <a href="#" class="header-top-social-link"> 
+                <ion-icon name="logo-linkedin"></ion-icon>
+              </a>
+            </li> <br>
+
+            <li>
+              <a href="#" class="header-top-social-link">
+                <ion-icon name="logo-youtube"></ion-icon>
+              </a>
+            </li>
+
+
+
+          </ul>
+
+          <!-- <button class="header-top-btn">Download</button> -->
+        </div>
+
+      </div>
+    </div>
+
+    <div class="header-bottom">
+      <div class="container">
+
+        <a href="#" class="logo">
+          <img src="./assets/images/logoimg.png" alt="nugen logo">
+        </a>
+
+        <nav class="navbar" data-navbar>
+
+          <div class="navbar-top">
+
+            <a href="#" class="logo">
+              <img src="./assets/images/logoimg.png" alt="nugen logo">
+            </a>
+
+            <button class="nav-close-btn" data-nav-close-btn aria-label="Close Menu">
+                <ion-icon name="close-outline"></ion-icon>
+              </button>
+  
+            </div>
+  
+          <a href="index.html"> <button class="bb1">Home Page</button> </a>
+  
+  
+               
+               
+              </ul>
+            </div>
+  
+          </nav>
+  
+          <div class="header-bottom-actions">
+  
+            <!-- <button class="header-bottom-actions-btn" aria-label="Search">
+              <ion-icon name="search-outline"></ion-icon>
+  
+              <span>Search</span>
+            </button>
+  
+            <button class="header-bottom-actions-btn" aria-label="Profile">
+              <ion-icon name="person-outline"></ion-icon>
+  
+              <span>Profile</span>
+            </button>  -->
+  
+            <!-- <button class="header-bottom-actions-btn" aria-label="Cart">
+              <ion-icon name="cart-outline"></ion-icon>
+  
+              <span>Cart</span>
+            </button> -->
+  
+            <button class="header-bottom-actions-btn" data-nav-open-btn aria-label="Open Menu">
+              <ion-icon name="menu-outline"></ion-icon>
+  
+              <span>Menu</span>
+            </button>
+  
+          </div>
+  
+        </div>
+      </div> 
+  
+    </header>
+  
+  
+  
+  
+  
+    <main>
+      <article>
+  
+  
+  
+          <article class="article-container">
+              <div class="article-image">
+                <img src="assets/images/Enterprise.png" alt="Article Image">
+              </div>
+              <div class="article-content">
+                <h1>Enterprise</h1>
+                <p>The management of enterprise content is critical for businesses to ensure efficiency, collaboration, compliance, and security.</p>
+                <p>ECM systems facilitate the creation, storage, retrieval, sharing, and preservation of content throughout its lifecycle. </p>
+                <p>They incorporate features such as document management, records management, workflow automation, and collaboration tools to optimize business processes and enhance productivity.</p> 
+                <p>Compliance with regulatory requirements is ensured through robust governance and security measures that control access and manage document retention policies.</p>
+                <p> It also contributes to cost savings by reducing paper-based processes, minimizing storage costs, and optimizing resource allocation.</p><br>
+              </div>
+            </article>
+                 
+  
+  
+            <footer class="footer">
+
+              <div class="footer-top">
+                <div class="container">
+          
+                  <div class="footer-brand ">
+          
+          
+          
+                    <p class="section-text">
+                      <a href="#"><img src="assets/images/logoimg.png" alt=""></a>
+                    </p>
+          
+                    <ul class="contact-list">
+          
+                      <li> <center><div>
+                        <ion-icon name="location-outline" ></ion-icon>
+                      </div></center>
+                        <a href="#" class="contact-link">
+                          <address>
+                            H N 158, 3E CHHOTI GALI NO -05 NEAR KHATU SHYAM MANDIR SSB ROAD , Ganganagar, Rajasthan, India - 335001
+                          </address>
+                        </a>
+                      </li>
+                    </ul>
+          
+                  </div>
+                  
+          
+                  <div class="footer-link-box" >
+          
+                    <ul class="footer-list">
+          
+                      <li>
+                        <p class="footer-list-title">Contact Us</p>
+                      </li>
+          
+                      <li>
+                        <a href="tel:+91-7599556060" class="contact-link">
+                          <ion-icon name="call-outline"></ion-icon>
+                          <span>+91 93140 80890</span>
+                        </a>
+          
+                        <a href="tel:+91-7599556060" class="contact-link">
+                          <ion-icon name="call-outline"></ion-icon>
+          
+                          <span>+91 97834 68471</span>
+                          
+                        </a>
+                      </li><br>
+          
+                      <p class="footer-list-title">Follow Us</p>
+          
+                      <ul class="social-list" style="padding-left: 20px;">
+                        
+          
+                        <li>
+                          <a href="https://www.facebook.com/profile.php?id=61557583432506&mibextid=ZbWKwL" class="social-link">
+                            <ion-icon name="logo-facebook"></ion-icon>
+                          </a>
+                        </li>
+            
+                        <li>
+                          <a href="https://www.instagram.com/nugencommunication?igsh=MW10MzNjb3FuOTNhMg==" class="social-link">
+                            <ion-icon name="logo-instagram"></ion-icon>
+                          </a>
+                        </li>
+            
+                        <li>
+                          <a href="https://www.linkedin.com/feed/update/urn:li:activity:7211968455061778432" class="social-link">
+                            <ion-icon name="logo-linkedin"></ion-icon>
+                          </a>
+                        </li>
+            
+                        <li>
+                          <a href="https://youtube.com/@techsaathigrow?si=C6brNICOq9sbwTkQ" class="social-link">
+                            <ion-icon name="logo-youtube"></ion-icon>
+                          </a>
+                        </li>
+            
+                      </ul>
+          
+                    </ul>
+          
+                    <ul class="footer-list">
+                      <li>
+                        <p class="footer-list-title">Service</p>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">Bulk Bandwidth</a>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">P2P/NLD</a>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">Enterprise</a>
+                      </li>
+                    </ul>
+          
+                    <ul class="footer-list">
+          
+                      <li>
+                        <p class="footer-list-title">Ouicks Links</p>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">Home</a>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">About</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer-link"> Services</a>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">Blog</a>
+                      </li>
+          
+                      <li>
+                        <a href="#" class="footer-link">Contact us</a>
+                      </li>
+          
+                    </ul>
+                  </div>
+          
+                </div>
+              </div>
+              <hr class="centered-hr">
+              <div class="footer-bottom">
+                <div class="container">
+          
+                  <p class="copyright">
+                    &copy; 2024 <a href="https://www.inextglobal.co.in/">Inext</a>. All Rights Reserved
+                  </p>
+          
+                </div>
+              </div>
+          
+            </footer>
+          
+          
+          
+          
+          
+            <!-- 
+              - custom js link
+            -->
+            <script src="./assets/js/script.js"></script>
+          
+            <!-- 
+              - ionicon link
+            -->
+            <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+          
+          </body>
+          
+          </html>

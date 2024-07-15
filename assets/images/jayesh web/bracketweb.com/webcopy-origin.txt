@@ -1,0 +1,1036 @@
+Uri: https://bracketweb.com/zeinetwp/comments/feed/
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bracketweb.com/zeinetwp/feed/
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/?add-to-cart=906
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index-3.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/?add-to-cart=911
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index-5.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/?quick-view=904
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index-1.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/?quick-view=906
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index-2.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/home-five-one-page/?quick-view=911
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\home-five-one-page\index-4.htm
+Content Type: text/html
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.27.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar-4.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar-2.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar-1.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar-3.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/css/layerdrops-toolbar.css?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\css\layerdrops-toolbar-5.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher-4.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher-2.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher-1.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher-3.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/color-switcher.js?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\color-switcher-5.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min-4.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min-2.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min-1.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min-3.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/layerdrops-toolbar/assets/js/jQuery.style.switcher.min.js?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\layerdrops-toolbar\assets\js\jQuery.style.switcher.min-5.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\recent-posts-widget-with-thumbnails\public.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/css/frontend.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/css/icons.css?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/js/frontend.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\js\frontend.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/feather/feather.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\feather\feather.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\magnific-popup\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/magnific-popup/magnific-popup.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/custom-theme.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\perfect-scrollbar\css\custom-theme.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\perfect-scrollbar\css\perfect-scrollbar.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\perfect-scrollbar\js\perfect-scrollbar.jquery.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick.css?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\slick\slick.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-quick-view/assets/libs/slick/slick.min.js?ver=3.5.6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-quick-view\assets\libs\slick\slick.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-wishlist/assets/css/frontend.css?ver=4.8.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-wishlist\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-wishlist/assets/css/icons.css?ver=4.8.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-wishlist\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woo-smart-wishlist/assets/js/frontend.js?ver=4.8.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woo-smart-wishlist\assets\js\frontend.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/blocks-checkout.js?ver=9f469ef17beaf7c51576
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\blocks-checkout.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/blocks-components.js?ver=b165bb2bd213326d7f31
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\blocks-components.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-data.js?ver=c96aba0171b12e03b8a6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-data.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-middleware.js?ver=ca04183222edaf8a26be
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-middleware.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks-registry.js?ver=1c879273bd5c193cad0a
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks-registry.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=11.8.0-dev
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/client/blocks/wc-settings.js?ver=07c2f0675ddd247d2325
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\client\blocks\wc-settings.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution-blocks.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution-blocks.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.5.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/css/zeinet-addon.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\css\zeinet-addon.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/js/zeinet-addon.js?ver=1707622542
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\js\zeinet-addon.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/animate/animate.min.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/animate/custom-animate.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\animate\custom-animate.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/bootstrap-select/css/bootstrap-select.min.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\bootstrap-select\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/bootstrap-select/js/bootstrap-select.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\bootstrap-select\js\bootstrap-select.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\bxslider\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/bxslider/jquery.bxslider.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\bxslider\jquery.bxslider.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/circleType/jquery.circleType.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\circleType\jquery.circleType.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/circleType/jquery.lettering.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\circleType\jquery.lettering.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/countdown/countdown.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\countdown\countdown.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/isotope/isotope.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\isotope\isotope.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jarallax/jarallax.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jarallax\jarallax.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jarallax/jarallax.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jarallax\jarallax.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-ajaxchimp\jquery.ajaxchimp.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-appear/jquery.appear.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-appear\jquery.appear.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-circle-progress\jquery.circle-progress.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-easing/jquery.easing.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-easing\jquery.easing.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-magnific-popup\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-ui/jquery-ui.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-ui\jquery-ui.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/jquery-validate/jquery.validate.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\jquery-validate\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/odometer/odometer.min.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\odometer\odometer.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/odometer/odometer.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\odometer\odometer.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/owl-carousel/owl.carousel.min.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\owl-carousel\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/owl-carousel/owl.carousel.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\owl-carousel\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/owl-carousel/owl.theme.default.min.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\owl-carousel\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/reey-font/stylesheet.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\reey-font\stylesheet.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/sharer/sharer.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\sharer\sharer.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/swiper/swiper.min.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\swiper\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/timepicker/timePicker.css?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\timepicker\timePicker.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/timepicker/timePicker.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\timepicker\timePicker.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/plugins/zeinet-addon/assets/vendors/wow/wow.js?ver=1706576382
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\plugins\zeinet-addon\assets\vendors\wow\wow.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme-4.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme-2.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme-1.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme-3.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/js/zeinet-theme.js?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\js\zeinet-theme-5.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/bootstrap/css/bootstrap.min.css?ver=5.0.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/bootstrap/js/bootstrap.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\bootstrap\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/flaticons/css/flaticon.css?ver=1.1
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\flaticons\css\flaticon.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/fontawesome/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/zeinet-icons-two/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\zeinet-icons-two\style.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/assets/vendors/zeinet-icons/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\assets\vendors\zeinet-icons\style.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style-4.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style-2.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style-1.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style-3.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/themes/zeinet/style.css?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\themes\zeinet\style-5.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/favicon-32x32-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2022\10\favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/loader.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2022\10\loader.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/logo-light.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2022\10\logo-light.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2022/10/page-header-bg.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2022\10\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/about-6-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\about-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/about-6-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\about-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/about-6-shape.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\about-6-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-4-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-4-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-4-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-4-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-4-3.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-4-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-4-4.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-4-4.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-4-5.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-4-5.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/brand-bg-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\brand-bg-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/feature-four-bg.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\feature-four-bg.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/feature-four-shape.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\feature-four-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/feature-item-bg.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\feature-item-bg.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/footer-two-shape-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\footer-two-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/logo-5-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\logo-5-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/logo-5.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\logo-5.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/mail-bg-3.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\mail-bg-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-5-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-5-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-5-3.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-five-left-shape.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-five-left-shape.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-five-shape-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-five-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-five-shape-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-five-shape-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/main-slider-five-shape-3.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\main-slider-five-shape-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/movie-4-1-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\movie-4-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/movie-4-2-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\movie-4-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/movie-4-4-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\movie-4-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/movie-bg-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\movie-bg-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/news-4-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\news-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/news-4-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\news-4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/news-4-3.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\news-4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/offer-bg-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\offer-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/offer.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\offer.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/pricing-bg-4.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\pricing-bg-4.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/pricing-shape-4.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\pricing-shape-4.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/product-1-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\product-1-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/product-1-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\product-1-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/product-1-3.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\product-1-3.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/service-6-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\service-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/service-6-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\service-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/service-6-3.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\service-6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/service-6-4.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\service-6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/tabs-bg.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\tabs-bg.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/testimonial-5-1.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\testimonial-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/testimonial-5-2.jpg
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\testimonial-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/testimonial-five-shape-1.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\testimonial-five-shape-1.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/2024/02/testimonial-five-shape-2.png
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\2024\02\testimonial-five-shape-2.png
+Content Type: image/png
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/elementor/css/global.css?ver=1707531705
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/elementor/css/post-1884.css?ver=1707532884
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\elementor\css\post-1884.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-content/uploads/elementor/css/post-6.css?ver=1707531704
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\a11y.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/api-fetch.min.js?ver=4c185334c5ec26e149cc
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\api-fetch.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/compose.min.js?ver=1339d3318cd44440dccb
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\compose.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/data-controls.min.js?ver=49f5587e8b90f9e7cc7e
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\data-controls.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/data.min.js?ver=e6595ba1a7cd34429f66
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\data.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/deprecated.min.js?ver=e1f84915c5e8ae38964c
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\deprecated.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\dom-ready.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/dom.min.js?ver=4ecffbffba91b10c5c7a
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\dom.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/element.min.js?ver=cb762d190aebbec25b27
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\element.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\escape-html.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/html-entities.min.js?ver=2cd3358363e0675638fb
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\html-entities.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/is-shallow-equal.min.js?ver=e0f9f1d78d83f5196979
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/keycodes.min.js?ver=034ff647a54b018581d3
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\keycodes.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/notices.min.js?ver=673a68a7ac2f556ed50b
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\notices.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/primitives.min.js?ver=a41bfd5835f583ae838a
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\primitives.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/priority-queue.min.js?ver=9c21c957c7e50ffdbf48
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\priority-queue.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/private-apis.min.js?ver=5e7fdf55d04b8c2aadef
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\private-apis.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/redux-routine.min.js?ver=b14553dce2bee5c0f064
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\redux-routine.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/url.min.js?ver=421139b01f33e5b327d8
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\url.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\react.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/dist/warning.min.js?ver=ed7c8b0940914f4fe44b
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\dist\warning.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-includes/js/wp-util.min.js?ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-includes\js\wp-util.min.js
+Content Type: text/javascript
+
+Uri: https://bracketweb.com/zeinetwp/wp-json/
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bracketweb.com/zeinetwp/wp-json/oembed/1.0/embed?url=https:%2F%2Fbracketweb.com%2Fzeinetwp%2Fhome-five-one-page%2F
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bracketweb.com/zeinetwp/wp-json/oembed/1.0/embed?url=https:%2F%2Fbracketweb.com%2Fzeinetwp%2Fhome-five-one-page%2F&format=xml
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bracketweb.com/zeinetwp/wp-json/wp/v2/pages/2172
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\wp-json\wp\v2\pages\2172
+Content Type: application/json
+
+Uri: https://bracketweb.com/zeinetwp/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\bracketweb.com\zeinetwp\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720414495
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min-4.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720443910
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min-2.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720680217
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720700374
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720785966
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min-3.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.2/js.cookie.min.js?ver=1720785970
+File Name: C:\Downloaded Web Sites\bracketweb.com\ajax\libs\js-cookie\2.1.2\js.cookie.min-5.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Manrope:200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600!%2C700%2C700i%2C800%2C800i|Outfit:300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600!%2C700%2C700i%2C800%2C800i%2C900%2C900i%26subset%3Dlatin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\bracketweb.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manrope:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.5
+File Name: C:\Downloaded Web Sites\bracketweb.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bracketweb.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
